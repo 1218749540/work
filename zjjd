@@ -1,4 +1,4 @@
-#!MANAGED-CONFIG https://sub.xeton.dev/sub?target=surfboard&url=https%3A%2F%2Fraw.githubusercontent.com%2F1218749540%2Fwork%2Fmain%2Fjdnew&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online.ini&filename=%E8%87%AA%E5%BB%BA%E8%8A%82%E7%82%B9&emoji=true&list=false&tfo=false&scv=false&fdn=false&sort=false interval=86400 strict=false
+#!MANAGED-CONFIG https://raw.githubusercontent.com/1218749540/work/main/zjjd
 
 [General]
 loglevel = 自建节点
